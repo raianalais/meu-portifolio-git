@@ -1,4 +1,4 @@
-##Meu portifólio
+## Meu portifólio
 Portifólio criado para atividade da disciplina de Desenvolvimento de Software.
 
 ## Estrutura do Repositório
