@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
     cout << "hello word" << endl;
-
-    return 0;
+    cout << "ola, usuario! Bem vindo ao sistema";
+    
+    return 0
 }
