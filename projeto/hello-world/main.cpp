@@ -12,7 +12,13 @@ int main() {
     cout << "digite seu nome";
     cin >> nome;
 
-    cout << saudacao(nome) << endl;
+    if (nome == ""){
+        cout << "nome invalido" << endl;
+    }
+    else{
+        cout << saudacao(nome) << endl;
+    }
+    
 
     return 0;
 }
